@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),juice)
+ifeq ($(TARGET_DEVICE),lemon)
 
 endif
